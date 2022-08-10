@@ -12,7 +12,7 @@ pipeline {
 		AWS_EB_APP_NAME = 'abdulkarimanbelt2d4'
         AWS_EB_ENVIRONMENT_NAME = 'Abdulkarimanbelt2d4-env'
         AWS_EB_APP_VERSION = "${BUILD_ID}"
-        
+        AWS_REGION = 'us-east-1'
 	}
 
 	stages {
