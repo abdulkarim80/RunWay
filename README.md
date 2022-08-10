@@ -21,15 +21,3 @@ Later, we are going to push the docker image to docker hub public registry. And 
 <p align="center">
   <img src = "https://github.com/chandradeoarya/RUNaWAY/blob/master/RUNaWAY.gif?raw=true" width=400>
 </p>
-
-### Building guide
-
-coming soon once exam is over :D
-
-#### how to run on your local machine
-
-Why don't you learn DevOps and do yourself.
-
-#### Contibutors
-
-- Chandradeo Arya
