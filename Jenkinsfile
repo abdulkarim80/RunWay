@@ -9,8 +9,8 @@ pipeline {
   		AWS_SECRET_ACCESS_KEY = credentials('abdulkarim-aws-secret-access-key')
 		ARTIFACT_NAME = 'Dockerrun.aws.json'
 		AWS_S3_BUCKET = 'abdulkarim-belt2-artifacts-1111'
-		AWS_EB_APP_NAME = 'abdulkarim-belt2D4-EB'
-        AWS_EB_ENVIRONMENT_NAME = 'abdulkarimanbelt2d4-env'
+		AWS_EB_APP_NAME = 'abdulkarimanbelt2d4'
+        AWS_EB_ENVIRONMENT_NAME = 'Abdulkarimanbelt2d4-env'
         AWS_EB_APP_VERSION = "${BUILD_ID}"
         AWS_REGION = 'us-east-1'
 	}
