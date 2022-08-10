@@ -31,7 +31,7 @@ pipeline {
 
 		stage('Push') {
 			steps {
-				sh 'docker push ayy808/gameb2d4:latest'
+				sh 'docker push ayy808/game1b2d4:latest'
 			}
 		}
 
