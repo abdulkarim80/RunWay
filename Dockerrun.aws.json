@@ -1,0 +1,11 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+      "Name": "registry.hub.docker.com/ayy808/gameb2d4:latest"
+    },
+    "Ports": [
+      {
+        "ContainerPort": 80
+      }
+    ]
+  }
