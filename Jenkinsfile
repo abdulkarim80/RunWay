@@ -19,7 +19,7 @@ pipeline {
 
 		stage('Build') {
 			steps {
-				sh 'docker build -t "ayy808/gameb2d4:latest .'
+				sh 'docker build -t "ayy808/game1b2d4:latest .'
 			}
 		}
 
